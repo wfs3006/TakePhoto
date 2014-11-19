@@ -1,0 +1,1 @@
+this project is a sample demo ,it take photo with camera and show it use ImageView
